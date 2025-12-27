@@ -20,5 +20,6 @@ else:
     print("ODD")
 ```
 ## Output
+<img width="476" height="386" alt="image" src="https://github.com/user-attachments/assets/78e8206f-b490-474c-b539-e9b65c8d2f70" />
 
 ## Result
