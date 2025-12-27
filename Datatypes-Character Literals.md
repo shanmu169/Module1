@@ -13,5 +13,6 @@ char2='a'
 print(char1)
 print(char2)
 ## Output
+<img width="1184" height="298" alt="image" src="https://github.com/user-attachments/assets/33efec3f-ef4b-490e-9ad2-4c5bfb33b026" />
 
 ## Result
